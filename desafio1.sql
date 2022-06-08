@@ -67,12 +67,12 @@ INSERT INTO SpotifyClone.users (user_id, name, age, plan_id)
 VALUES
   (1, 'Thati', 23, 1),
   (2, 'Cintia', 35, 2),
-  (3, 'Bill', 20, 4),
-  (4, 'Roger', 45, 3),
-  (5, 'Norman', 58, 3),
+  (3, 'Bill', 20, 3),
+  (4, 'Roger', 45, 4),
+  (5, 'Norman', 58, 4),
   (6, 'Patrick', 33, 2),
-  (7, 'Vivian', 26, 4),
-  (8, 'Carol', 19, 4),
+  (7, 'Vivian', 26, 3),
+  (8, 'Carol', 19, 3),
   (9, 'Angelina', 42, 2),
   (10, 'Paul', 46, 2);
  
